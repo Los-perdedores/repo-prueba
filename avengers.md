@@ -4,4 +4,5 @@
 * Falcom
 * Pantera Negra
 * Avispon Verde
+* Doctor Strange
 
