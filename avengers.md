@@ -2,4 +2,5 @@
 * Hulk
 * Iron man
 * Falcom
+* Pantera Negra
 
