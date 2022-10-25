@@ -3,4 +3,5 @@
 * Iron man
 * Falcom
 * Pantera Negra
+* Avispon Verde
 
