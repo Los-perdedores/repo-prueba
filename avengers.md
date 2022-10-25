@@ -5,4 +5,5 @@
 * Pantera Negra
 * Avispon Verde
 * Doctor Strange
+* Hulk verde
 
